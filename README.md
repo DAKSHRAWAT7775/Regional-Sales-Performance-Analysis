@@ -3,7 +3,7 @@
 
 ## 📝 Project Overview
 
-This project focuses on end-to-end **data analysis**, combining Python for data cleaning and exploration with **Power BI** for interactive visual reporting. The objective is to derive actionable insights from raw data by preprocessing it in Python and building a professional dashboard in Power BI.
+This project focuses on end-to-end **data analysis** combining Python for data cleaning and exploration with **Power BI** for interactive visual reporting. The objective is to derive actionable insights from raw data by preprocessing it in Python and building a professional dashboard in Power BI.
 
 ---
 
