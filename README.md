@@ -18,6 +18,6 @@ This project focuses on end-to-end **data analysis** combining Python for data c
 ## 🔧 Tools & Technologies
 
 - **Python** (in Jupyter Notebook) – for data manipulation and EDA
-- **Pandas, NumPy, Matplotlib, Seaborn** – for data processing and visualization
+- **Pandas, NumPy** – for data processing
 - **Power BI** – for building dynamic and interactive dashboards
 - **CSV/Excel** – for intermediate data exchange
